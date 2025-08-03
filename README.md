@@ -71,7 +71,7 @@ The project likely includes:
 - Feature selection and engineering
 - Model selection (potentially including Random Forest, SVM, Neural Networks, etc.)
 - Cross-validation techniques
-- Performance evaluation using metrics like accuracy, precision, recall, and F1-score
+- Performed Ensemble techniques
 
 ## 📈 Expected Outcomes
 
